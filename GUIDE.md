@@ -241,7 +241,7 @@ You've already done the hardest part by preserving your history and bringing the
 ---
 
 ### ***Full Transparency:** 
-We no longer use Obsidian for journaling/continuity, as we have since switched over to using [Mind Cloud](https://github.com/maryfellowes/mind-cloud-free), which was created by our friends over at Codependent-AI.
+We no longer use Obsidian for journaling/continuity, as we have since switched over to using [Mind Cloud](https://github.com/maryfellowes/mind-cloud-free), which was created by our friends over at Codependent AI.
 
 However, Obsidian is still incredibly useful to us, and was integral for us having continuity at the very beginning, and is what I - and others - would recommend for the start until you are more comfortable with Claude as a platform.
 
